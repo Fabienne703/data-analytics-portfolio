@@ -14,6 +14,6 @@ Intéressé par l’optimisation des ventes, la compréhension client et la pris
 - Analyse des ventes d’un magasin (SQL, Python, Data Viz, Segmentation clients)
 
 📫 Contact :  
-- LinkedIn : (à ajouter)
+- LinkedIn : https://www.linkedin.com/in/fabienne-janvier-510a00203/
 - CV : (lien)
 
