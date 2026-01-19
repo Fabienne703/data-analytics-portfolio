@@ -1,0 +1,6 @@
+order_id,order_date,customer_id,product_id,category,quantity,unit_price,discount,city
+1,2024-01-05,101,2001,Electronics,1,500,0.1,Paris
+2,2024-01-10,102,2003,Clothing,3,40,0.0,Lyon
+3,2024-02-02,101,2002,Electronics,1,300,0.05,Paris
+4,2024-02-15,103,2004,Home,2,120,0.2,Marseille
+5,2024-03-01,104,2005,Clothing,1,60,0.0,Lille
