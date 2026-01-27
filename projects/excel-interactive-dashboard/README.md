@@ -61,3 +61,17 @@ Projet orienté *Business Intelligence*, démontrant la capacité à :
 - Répondre à des besoins métiers concrets
 
 Projet complémentaire aux analyses Python du portfolio.
+
+## Aperçu du dashboard
+
+### Vue globale
+![Dashboard](screenshots/dashboard_overview.png)
+
+### Sales par mois
+![Sales by Month](screenshots/sales_by_month.png)
+
+### Segments clients
+![Customer Segment](screenshots/segment_donut.png)
+
+### Top 10 Produits
+![Top 10 Products](screenshots/top10_products.png)
